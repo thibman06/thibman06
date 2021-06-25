@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thibman06
+- 👀 I’m interested in python, javascript, html/css
+- 🌱 I’m currently learning javascript and html/css
+- 💞️ I’m looking to collaborate on Stixi: Discord Bot and application chat
