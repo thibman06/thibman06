@@ -1,4 +1,4 @@
-# sltcv
+# thibman06
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=thibman06&show_icons=true&theme=jolly&count_private=true"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thibman06&layout=compact&theme=jolly&count_private=true"/>
